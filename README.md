@@ -1,2 +1,6 @@
 # practicas
-trabajo colaborativo
+##trabajo colaborativo
+
+###integrantes del trabajo:
+-[coki]
+-[godoy]
